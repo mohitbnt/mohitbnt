@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev" alt="Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,aws,terraform,docker,kubernetes,bash,git,githubactions,prometheus,grafana" alt="Technology Stack" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohit-kumar-659a2a110">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mk037306@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mohit-kumar.in">
-    <img src="https://shields.io" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Website-mohit--kumar.in-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
@@ -47,15 +47,15 @@ My focus is on combining a strong Linux and systems foundation with modern **Inf
 
 ## 🛠️ Technical Skills
 
-**Cloud:** AWS
-**Infrastructure as Code:** Terraform
-**Containers:** Docker, Docker Compose
-**Orchestration:** Kubernetes
-**Operating Systems:** Linux, Red Hat, Ubuntu
-**Automation & Scripting:** Bash
-**CI/CD:** GitHub Actions
-**Monitoring & Observability:** Amazon CloudWatch, Prometheus, Grafana
-**Version Control:** Git, GitHub
+**Cloud:** AWS  
+**Infrastructure as Code:** Terraform  
+**Containers:** Docker, Docker Compose  
+**Orchestration:** Kubernetes  
+**Operating Systems:** Linux, Red Hat, Ubuntu  
+**Automation & Scripting:** Bash  
+**CI/CD:** GitHub Actions  
+**Monitoring & Observability:** Amazon CloudWatch, Prometheus, Grafana  
+**Version Control:** Git, GitHub  
 **Core Infrastructure:** Linux Networking, Storage, Systemd, LVM, SSH, DNS, HTTP/HTTPS
 
 ---
@@ -77,7 +77,7 @@ Designed and deployed production-oriented AWS infrastructure using Terraform wit
 * Implemented remote Terraform state using **Amazon S3 with versioning and state locking**.
 * Applied security group rules following least-privilege principles.
 
-➡️ **[Explore Terraform Projects](https://github.com)**
+➡️ **[Explore Terraform Projects](https://github.com/mohitbnt)**
 
 ---
 
@@ -101,7 +101,7 @@ Containerized a multi-tier application while applying production-oriented Docker
 * Deployed the application stack using **Docker Compose**.
 * Implemented container monitoring using **Prometheus and Grafana**.
 
-➡️ **[Explore Docker Projects](https://github.com)**
+➡️ **[Explore Docker Projects](https://github.com/mohitbnt)**
 
 ---
 
@@ -126,7 +126,7 @@ Building and operating Kubernetes environments while applying production-oriente
 * Rolling Updates & Rollbacks
 * Persistent storage using CSI drivers
 
-➡️ **[Explore Kubernetes Projects](https://github.com)**
+➡️ **[Explore Kubernetes Projects](https://github.com/mohitbnt)**
 
 ---
 
@@ -144,7 +144,7 @@ Building automated CI/CD workflows to connect application development, container
 * Secrets management
 * Branch and event-based workflow triggers
 
-➡️ **[Explore CI/CD Projects](https://github.com)**
+➡️ **[Explore CI/CD Projects](https://github.com/mohitbnt)**
 
 ---
 
@@ -165,7 +165,7 @@ Areas I regularly work with include:
 * Monitoring and observability
 * CI/CD automation
 
-➡️ **[Explore All Repositories](https://github.com)**
+➡️ **[Explore All Repositories](https://github.com/mohitbnt)**
 
 ---
 
@@ -200,11 +200,14 @@ Currently strengthening my Cloud & DevOps engineering skills through hands-on im
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohit-kumar-659a2a110">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mk037306@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mohit-kumar.in">
+    <img src="https://img.shields.io/badge/Website-mohit--kumar.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
@@ -213,5 +216,5 @@ Currently strengthening my Cloud & DevOps engineering skills through hands-on im
 </p>
 
 <p align="center">
-  <i>Building reliable infrastructure • Automating operations</i>
+  <i>Building reliable infrastructure • Automating operations • Learning continuously</i>
 </p>
