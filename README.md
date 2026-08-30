@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mohit-kumar.in">
-    <img src="https://img.shields.io/badge/Website-cloudsystemonline.com-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Website-mohit-kumar.in-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
