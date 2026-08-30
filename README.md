@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,redhat,aws,terraform,docker,kubernetes,bash,git,githubactions,prometheus,grafana" alt="Technology Stack" />
+  <img src="https://skillicons.dev" alt="Technology Stack" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-kumar-659a2a110">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:mk037306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://shields.io" alt="Email" />
   </a>
   <a href="https://mohit-kumar.in">
-    <img src="https://img.shields.io/badge/Website-mohit-kumar.in-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://shields.io" alt="Portfolio Website" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@ Designed and deployed production-oriented AWS infrastructure using Terraform wit
 * Implemented remote Terraform state using **Amazon S3 with versioning and state locking**.
 * Applied security group rules following least-privilege principles.
 
-➡️ **[Explore Terraform Projects](https://github.com/mohitbnt)**
+➡️ **[Explore Terraform Projects](https://github.com)**
 
 ---
 
@@ -101,7 +101,7 @@ Containerized a multi-tier application while applying production-oriented Docker
 * Deployed the application stack using **Docker Compose**.
 * Implemented container monitoring using **Prometheus and Grafana**.
 
-➡️ **[Explore Docker Projects](https://github.com/mohitbnt)**
+➡️ **[Explore Docker Projects](https://github.com)**
 
 ---
 
@@ -126,7 +126,7 @@ Building and operating Kubernetes environments while applying production-oriente
 * Rolling Updates & Rollbacks
 * Persistent storage using CSI drivers
 
-➡️ **[Explore Kubernetes Projects](https://github.com/mohitbnt)**
+➡️ **[Explore Kubernetes Projects](https://github.com)**
 
 ---
 
@@ -144,7 +144,7 @@ Building automated CI/CD workflows to connect application development, container
 * Secrets management
 * Branch and event-based workflow triggers
 
-➡️ **[Explore CI/CD Projects](https://github.com/mohitbnt)**
+➡️ **[Explore CI/CD Projects](https://github.com)**
 
 ---
 
@@ -165,7 +165,7 @@ Areas I regularly work with include:
 * Monitoring and observability
 * CI/CD automation
 
-➡️ **[Explore All Repositories](https://github.com/mohitbnt)**
+➡️ **[Explore All Repositories](https://github.com)**
 
 ---
 
@@ -200,11 +200,11 @@ Currently strengthening my Cloud & DevOps engineering skills through hands-on im
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-kumar-659a2a110">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:mk037306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
@@ -213,5 +213,5 @@ Currently strengthening my Cloud & DevOps engineering skills through hands-on im
 </p>
 
 <p align="center">
-  <i>Building reliable infrastructure • Automating operations • Learning continuously</i>
+  <i>Building reliable infrastructure • Automating operations</i>
 </p>
